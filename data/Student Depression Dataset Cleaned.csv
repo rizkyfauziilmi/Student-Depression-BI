@@ -4435,7 +4435,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 22277,Female,23,Pune,Low,9.89,Very High,Less than 5 hours,Healthy,BBA,Yes,8,High,Yes,No
 22285,Female,29,Vasai-Virar,Moderate,9.12,High,Less than 5 hours,Unhealthy,ME,Yes,2,Low,No,No
 22287,Female,26,Rajkot,Low,7.21,Moderate,7-8 hours,Unhealthy,M.Com,Yes,5,Low,Yes,Yes
-22293,Male,27,Saanvi,Low,9.39,Low,Less than 5 hours,Healthy,BCA,Yes,2,High,Yes,Yes
+22293,Male,27,Others,Low,9.39,Low,Less than 5 hours,Healthy,BCA,Yes,2,High,Yes,Yes
 22294,Female,27,Mumbai,Moderate,8.17,Very High,7-8 hours,Healthy,BHM,Yes,3,Low,Yes,Yes
 22304,Male,27,Kalyan,Very High,8.44,Moderate,More than 8 hours,Moderate,BHM,Yes,2,Very High,No,Yes
 22305,Female,19,Bhopal,Very High,5.58,Low,Less than 5 hours,Moderate,High School,Yes,3,Moderate,Yes,Yes
@@ -5737,7 +5737,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 28849,Male,33,Chennai,Moderate,5.38,High,Less than 5 hours,Healthy,BCA,No,5,Moderate,No,No
 28857,Male,32,Patna,Low,7.14,Moderate,More than 8 hours,Moderate,LLB,Yes,11,Moderate,Yes,No
 28861,Female,23,Visakhapatnam,Moderate,6.89,High,More than 8 hours,Unhealthy,B.Ed,Yes,10,High,No,Yes
-28862,Male,30,Bhavna,Very High,8.91,Low,Less than 5 hours,Healthy,High School,Yes,0,Very High,No,Yes
+28862,Male,30,Others,Very High,8.91,Low,Less than 5 hours,Healthy,High School,Yes,0,Very High,No,Yes
 28873,Female,24,Meerut,Very High,7.77,Low,7-8 hours,Moderate,B.Tech,Yes,10,Moderate,No,Yes
 28874,Female,29,Pune,Moderate,6.83,High,More than 8 hours,Healthy,ME,Yes,12,Low,No,No
 28877,Female,24,Kolkata,Low,6.81,Low,Less than 5 hours,Moderate,B.Ed,No,10,Low,Yes,No
@@ -7704,7 +7704,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 38802,Male,34,Agra,Low,8.17,Low,Less than 5 hours,Healthy,M.Com,No,4,High,No,No
 38811,Male,18,Hyderabad,Very High,7.5,Low,Less than 5 hours,Moderate,High School,Yes,11,Very High,No,Yes
 38815,Female,27,Ghaziabad,High,5.12,Moderate,7-8 hours,Moderate,B.Com,Yes,12,Very High,No,Yes
-38817,Female,20,Mira,Very High,9.21,Low,More than 8 hours,Healthy,High School,No,6,Very High,No,Yes
+38817,Female,20,Others,Very High,9.21,Low,More than 8 hours,Healthy,High School,No,6,Very High,No,Yes
 38820,Male,21,Hyderabad,High,7.22,Low,5-6 hours,Unhealthy,B.Arch,Yes,11,Very High,Yes,Yes
 38821,Male,29,Kolkata,High,7.25,Moderate,5-6 hours,Unhealthy,BBA,Yes,11,Very High,Yes,Yes
 38822,Female,33,Patna,Moderate,6.39,Moderate,5-6 hours,Moderate,BE,Yes,6,Moderate,Yes,No
@@ -8718,7 +8718,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 44081,Male,26,Vadodara,Very High,9.72,Low,Less than 5 hours,Unhealthy,BHM,No,8,Moderate,Yes,Yes
 44082,Male,20,Hyderabad,Low,5.79,High,7-8 hours,Moderate,High School,No,12,Moderate,Yes,No
 44085,Female,30,Mumbai,Low,7.1,Moderate,More than 8 hours,Moderate,BA,No,6,Low,Yes,No
-44087,Male,29,Harsha,Moderate,8.62,Low,5-6 hours,Unhealthy,LLB,Yes,12,Low,No,Yes
+44087,Male,29,Others,Moderate,8.62,Low,5-6 hours,Unhealthy,LLB,Yes,12,Low,No,Yes
 44097,Male,33,Ghaziabad,Moderate,7.64,Moderate,Less than 5 hours,Healthy,B.Tech,Yes,4,Very High,No,No
 44102,Female,19,Srinagar,High,5.87,Very High,5-6 hours,Unhealthy,High School,Yes,11,Low,Yes,Yes
 44110,Female,33,Ludhiana,Low,5.16,High,More than 8 hours,Healthy,B.Arch,No,5,Very High,No,No
@@ -12604,7 +12604,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 63826,Male,24,Ghaziabad,Low,8.58,Moderate,7-8 hours,Unhealthy,BA,Yes,12,Very High,Yes,Yes
 63827,Male,27,Faridabad,Low,6.25,High,More than 8 hours,Healthy,M.Pharm,Yes,10,Moderate,No,Yes
 63829,Male,27,Kolkata,Moderate,7.9,Very High,7-8 hours,Healthy,M.Pharm,No,9,High,Yes,No
-63830,Male,21,Vaanya,Low,9.79,Very High,More than 8 hours,Unhealthy,MSc,Yes,10,Low,Yes,Yes
+63830,Male,21,Others,Low,9.79,Very High,More than 8 hours,Unhealthy,MSc,Yes,10,Low,Yes,Yes
 63835,Male,28,Thane,Low,9.06,Moderate,7-8 hours,Healthy,MD,No,11,Very High,No,No
 63837,Male,34,Kolkata,High,9.19,High,7-8 hours,Healthy,M.Pharm,Yes,4,Very High,No,Yes
 63840,Female,23,Varanasi,Moderate,6.29,Low,7-8 hours,Moderate,B.Ed,Yes,0,Moderate,Yes,No
@@ -12833,7 +12833,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 65031,Female,20,Delhi,High,7.04,Low,7-8 hours,Healthy,High School,Yes,10,Moderate,Yes,Yes
 65033,Female,29,Pune,Moderate,8.0,Low,Less than 5 hours,Unhealthy,M.Pharm,Yes,4,High,Yes,Yes
 65041,Female,18,Patna,Very High,5.56,High,More than 8 hours,Unhealthy,High School,Yes,4,Very High,Yes,Yes
-65042,Female,29,Gaurav,Moderate,9.44,Low,5-6 hours,Unhealthy,M.Ed,Yes,10,Very High,Yes,Yes
+65042,Female,29,Others,Moderate,9.44,Low,5-6 hours,Unhealthy,M.Ed,Yes,10,Very High,Yes,Yes
 65044,Male,21,Ghaziabad,Low,7.75,Low,Less than 5 hours,Moderate,High School,Yes,7,Low,Yes,Yes
 65046,Male,32,Nagpur,Very High,6.16,Moderate,Less than 5 hours,Moderate,M.Tech,Yes,3,Very High,No,Yes
 65055,Male,21,Agra,Low,8.04,Low,Less than 5 hours,Healthy,B.Arch,No,4,Moderate,Yes,No
@@ -13531,7 +13531,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 68656,Male,29,Delhi,High,5.39,High,More than 8 hours,Unhealthy,LLB,No,7,Very High,No,Yes
 68661,Female,31,Lucknow,Low,5.57,High,7-8 hours,Unhealthy,MA,Yes,12,Very High,No,Yes
 68663,Female,24,Varanasi,Low,5.74,Moderate,Less than 5 hours,Unhealthy,B.Arch,No,5,Low,No,No
-68667,Female,21,Harsh,High,5.12,High,7-8 hours,Unhealthy,B.Ed,Yes,7,Very High,Yes,Yes
+68667,Female,21,Others,High,5.12,High,7-8 hours,Unhealthy,B.Ed,Yes,7,Very High,Yes,Yes
 68668,Female,23,Lucknow,Low,5.7,Low,Less than 5 hours,Moderate,BE,Yes,11,High,No,Yes
 68678,Male,26,Vasai-Virar,Very High,6.99,Moderate,Less than 5 hours,Healthy,B.Tech,Yes,10,Moderate,No,Yes
 68686,Female,28,Mumbai,Low,6.16,Very High,Less than 5 hours,Unhealthy,MD,No,10,Low,No,No
@@ -13885,7 +13885,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 70372,Male,33,Pune,Moderate,9.44,High,7-8 hours,Unhealthy,High School,Yes,11,Moderate,Yes,Yes
 70398,Male,24,Ghaziabad,Low,7.02,Moderate,Less than 5 hours,Moderate,High School,No,6,Very High,Yes,No
 70406,Male,33,Nagpur,High,6.42,High,5-6 hours,Healthy,BBA,Yes,12,High,Yes,Yes
-70407,Male,20,Reyansh,Low,8.0,Moderate,7-8 hours,Unhealthy,High School,No,7,Low,No,No
+70407,Male,20,Others,Low,8.0,Moderate,7-8 hours,Unhealthy,High School,No,7,Low,No,No
 70408,Female,19,Indore,Moderate,5.85,Low,7-8 hours,Moderate,High School,Yes,9,Moderate,Yes,Yes
 70412,Male,18,Surat,Low,5.85,Very High,7-8 hours,Unhealthy,High School,No,2,Moderate,No,No
 70414,Male,21,Pune,Moderate,5.58,Moderate,Less than 5 hours,Moderate,M.Com,Yes,11,Low,No,Yes
@@ -14043,7 +14043,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 71118,Female,30,Pune,Moderate,9.59,Moderate,5-6 hours,Unhealthy,B.Ed,Yes,10,Moderate,No,Yes
 71120,Male,22,Agra,Moderate,9.04,High,More than 8 hours,Unhealthy,MBA,No,6,High,No,Yes
 71127,Female,23,Rajkot,Low,5.12,Moderate,7-8 hours,Moderate,M.Com,No,10,High,No,No
-71144,Male,18,Bhavna,Low,6.86,Very High,5-6 hours,Moderate,High School,Yes,10,Low,Yes,Yes
+71144,Male,18,Others,Low,6.86,Very High,5-6 hours,Moderate,High School,Yes,10,Low,Yes,Yes
 71149,Female,28,Visakhapatnam,Low,6.61,High,7-8 hours,Healthy,ME,Yes,9,High,No,No
 71154,Male,24,Thane,Moderate,5.99,Low,7-8 hours,Moderate,B.Ed,Yes,9,Very High,Yes,Yes
 71155,Female,27,Delhi,Very High,7.17,Moderate,7-8 hours,Healthy,PhD,No,6,Low,Yes,Yes
@@ -14546,7 +14546,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 73499,Male,19,Kolkata,Low,5.6,High,More than 8 hours,Moderate,High School,No,4,Moderate,No,No
 73504,Female,18,Bangalore,Moderate,8.17,High,5-6 hours,Unhealthy,High School,Yes,8,High,No,Yes
 73506,Male,29,Hyderabad,Very High,8.14,Low,Less than 5 hours,Unhealthy,BCA,Yes,7,Moderate,Yes,Yes
-73510,Male,21,Kibara,Low,7.27,Low,7-8 hours,Unhealthy,B.Com,Yes,11,Low,Yes,No
+73510,Male,21,Others,Low,7.27,Low,7-8 hours,Unhealthy,B.Com,Yes,11,Low,Yes,No
 73512,Male,19,Visakhapatnam,Low,7.08,Moderate,7-8 hours,Healthy,High School,No,4,Low,No,No
 73520,Male,32,Ahmedabad,Very High,9.21,Moderate,7-8 hours,Moderate,M.Tech,Yes,10,Low,No,Yes
 73524,Female,20,Surat,Very High,6.75,Low,Less than 5 hours,Healthy,High School,Yes,11,Low,No,No
@@ -17108,7 +17108,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 86709,Male,19,Surat,Low,5.11,Low,Less than 5 hours,Unhealthy,High School,Yes,12,High,No,Yes
 86713,Male,19,Varanasi,Very High,6.42,Very High,7-8 hours,Unhealthy,High School,Yes,10,Moderate,No,Yes
 86715,Female,31,Ludhiana,Very High,9.56,High,More than 8 hours,Unhealthy,B.Ed,Yes,5,Very High,No,Yes
-86723,Female,21,Rashi,Low,6.36,Low,7-8 hours,Moderate,BA,No,3,Low,No,No
+86723,Female,21,Others,Low,6.36,Low,7-8 hours,Moderate,BA,No,3,Low,No,No
 86727,Female,34,Vasai-Virar,Moderate,8.44,High,7-8 hours,Unhealthy,BE,Yes,9,Low,No,Yes
 86732,Female,26,Agra,Low,8.44,Very High,Less than 5 hours,Healthy,MBA,Yes,10,Low,No,Yes
 86733,Male,31,Rajkot,Very High,9.19,High,5-6 hours,Moderate,BCA,Yes,7,Very High,Yes,Yes
@@ -21501,7 +21501,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 108689,Female,24,Indore,Moderate,6.17,High,5-6 hours,Unhealthy,High School,Yes,1,Very High,No,Yes
 108694,Male,34,Hyderabad,Very High,8.97,Low,Less than 5 hours,Moderate,B.Tech,Yes,10,Very High,Yes,Yes
 108697,Female,23,Srinagar,Low,7.85,Moderate,5-6 hours,Healthy,BA,Yes,12,High,Yes,Yes
-108698,Male,31,Harsha,Moderate,6.69,High,More than 8 hours,Unhealthy,MD,No,8,Moderate,No,No
+108698,Male,31,Others,Moderate,6.69,High,More than 8 hours,Unhealthy,MD,No,8,Moderate,No,No
 108700,Male,32,Ludhiana,Low,7.8,High,7-8 hours,Healthy,BE,No,10,Low,No,No
 108707,Female,18,Rajkot,Moderate,9.63,Very High,More than 8 hours,Healthy,High School,Yes,9,High,No,No
 108708,Female,21,Bangalore,Moderate,8.9,Moderate,More than 8 hours,Healthy,M.Com,Yes,8,Very High,Yes,Yes
@@ -22937,7 +22937,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 115753,Male,18,Chennai,High,8.46,Low,Less than 5 hours,Moderate,High School,Yes,12,Low,No,Yes
 115756,Female,32,Nashik,Low,9.24,Low,7-8 hours,Moderate,B.Com,Yes,10,Very High,Yes,Yes
 115758,Male,32,Patna,High,6.53,Very High,More than 8 hours,Healthy,B.Pharm,No,0,Low,No,No
-115761,Female,31,Nalyan,High,8.08,Low,Less than 5 hours,Moderate,BA,Yes,6,Low,Yes,No
+115761,Female,31,Kalyan,High,8.08,Low,Less than 5 hours,Moderate,BA,Yes,6,Low,Yes,No
 115764,Male,28,Ghaziabad,Moderate,5.74,High,More than 8 hours,Unhealthy,BBA,No,7,High,No,No
 115770,Male,32,Hyderabad,Very High,5.48,Low,Less than 5 hours,Moderate,B.Tech,Yes,8,Low,No,Yes
 115773,Female,35,Visakhapatnam,High,9.86,Very High,Less than 5 hours,Moderate,MCA,No,9,High,Yes,No
@@ -24526,7 +24526,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 123662,Male,32,Nashik,High,8.09,Low,7-8 hours,Unhealthy,BCA,Yes,11,Moderate,No,Yes
 123665,Male,24,Visakhapatnam,Low,7.88,Very High,More than 8 hours,Moderate,M.Tech,No,3,Very High,No,No
 123666,Male,29,Vasai-Virar,Low,5.85,Very High,Less than 5 hours,Healthy,LLB,No,5,High,Yes,No
-123668,Male,34,Mihir,Moderate,9.1,Low,Less than 5 hours,Moderate,B.Ed,Yes,10,Moderate,Yes,Yes
+123668,Male,34,Others,Moderate,9.1,Low,Less than 5 hours,Moderate,B.Ed,Yes,10,Moderate,Yes,Yes
 123675,Female,29,Ahmedabad,Moderate,8.49,High,5-6 hours,Healthy,LLB,Yes,12,Low,Yes,No
 123682,Male,29,Ghaziabad,Very High,7.94,Moderate,More than 8 hours,Unhealthy,BE,Yes,12,Very High,No,Yes
 123687,Male,24,Patna,High,8.38,Low,5-6 hours,Healthy,High School,Yes,12,High,Yes,Yes
@@ -24718,7 +24718,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 124616,Female,25,Agra,Very High,7.22,Moderate,5-6 hours,Moderate,B.Com,Yes,10,Moderate,Yes,Yes
 124624,Male,30,Bhopal,Low,5.82,Very High,5-6 hours,Unhealthy,MSc,No,5,Moderate,Yes,No
 124631,Male,26,Pune,Moderate,5.85,Low,More than 8 hours,Healthy,B.Arch,Yes,6,Moderate,Yes,Yes
-124637,Male,23,Nalini,Very High,8.96,Low,7-8 hours,Moderate,B.Ed,Yes,12,Moderate,No,Yes
+124637,Male,23,Others,Very High,8.96,Low,7-8 hours,Moderate,B.Ed,Yes,12,Moderate,No,Yes
 124639,Female,18,Rajkot,Moderate,5.99,Low,7-8 hours,Unhealthy,High School,Yes,12,Moderate,Yes,Yes
 124640,Male,21,Thane,Low,8.65,Very High,Less than 5 hours,Healthy,B.Arch,No,9,Low,Yes,No
 124649,Male,34,Nagpur,Low,9.93,Moderate,Less than 5 hours,Moderate,B.Ed,No,9,Low,Yes,No
@@ -25107,7 +25107,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 126629,Male,32,Ludhiana,Very High,9.96,Low,5-6 hours,Unhealthy,BCA,Yes,10,Low,Yes,Yes
 126634,Female,30,Lucknow,Very High,9.05,Moderate,7-8 hours,Unhealthy,B.Ed,Yes,0,High,Yes,Yes
 126637,Male,31,Patna,Low,7.39,Very High,5-6 hours,Unhealthy,MBBS,Yes,7,Low,No,No
-126640,Male,29,Nandini,Low,6.52,Low,5-6 hours,Unhealthy,MSc,Yes,0,Low,Yes,No
+126640,Male,29,Others,Low,6.52,Low,5-6 hours,Unhealthy,MSc,Yes,0,Low,Yes,No
 126649,Female,19,Ahmedabad,High,7.88,High,7-8 hours,Unhealthy,High School,Yes,10,Low,No,Yes
 126666,Male,27,Bhopal,Moderate,5.61,Low,5-6 hours,Healthy,BE,No,9,Very High,Yes,No
 126667,Male,21,Varanasi,Very High,7.7,High,5-6 hours,Moderate,High School,No,4,Low,Yes,No
@@ -25128,7 +25128,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 126724,Female,28,Srinagar,Very High,9.44,High,Less than 5 hours,Unhealthy,B.Ed,Yes,2,Very High,No,Yes
 126737,Female,22,Pune,High,5.65,Low,Less than 5 hours,Healthy,MCA,Yes,9,Very High,Yes,Yes
 126746,Female,18,Bhopal,Moderate,8.04,Very High,7-8 hours,Healthy,High School,Yes,1,Moderate,Yes,No
-126752,Female,27,Khaziabad,Low,8.17,High,Less than 5 hours,Unhealthy,MBBS,Yes,7,Very High,No,Yes
+126752,Female,27,Ghaziabad,Low,8.17,High,Less than 5 hours,Unhealthy,MBBS,Yes,7,Very High,No,Yes
 126755,Female,22,Patna,Low,8.25,High,Less than 5 hours,Unhealthy,B.Com,Yes,4,High,No,Yes
 126756,Male,25,Hyderabad,Low,8.71,Low,5-6 hours,Moderate,B.Arch,Yes,11,Very High,Yes,Yes
 126760,Male,31,Surat,Very High,5.88,Low,5-6 hours,Healthy,B.Ed,Yes,12,Low,No,Yes
@@ -26287,7 +26287,7 @@ id,Gender,Age,City,Academic Pressure,CGPA,Study Satisfaction,Sleep Duration,Diet
 132709,Female,32,Lucknow,Moderate,9.69,Very High,Less than 5 hours,Moderate,B.Ed,No,5,Low,No,No
 132710,Male,34,Nashik,High,8.24,Very High,5-6 hours,Unhealthy,MHM,Yes,4,Very High,Yes,No
 132723,Female,30,Srinagar,Low,5.6,Very High,More than 8 hours,Moderate,BSc,No,3,Low,No,No
-132726,Male,29,Saanvi,High,7.83,Low,5-6 hours,Unhealthy,BE,No,2,Very High,No,Yes
+132726,Male,29,Others,High,7.83,Low,5-6 hours,Unhealthy,BE,No,2,Very High,No,Yes
 132733,Male,18,Surat,Very High,7.83,Very High,More than 8 hours,Moderate,High School,Yes,8,Very High,Yes,Yes
 132736,Male,30,Chennai,High,6.73,Low,Less than 5 hours,Moderate,M.Com,Yes,7,Moderate,Yes,Yes
 132740,Female,18,Rajkot,Very High,8.91,Moderate,5-6 hours,Unhealthy,High School,Yes,10,Low,Yes,Yes
